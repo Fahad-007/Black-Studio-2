@@ -1,0 +1,300 @@
+@media all and (max-width: 960px){
+	
+
+	h1{
+		font-size: 150%;
+	}
+
+	h5{
+		font-size: 70%;
+		font-weight: 300;
+	}
+	p{
+		line-height: 150%
+	}
+	header{
+		height: 85px;
+	}
+
+	.btn button{
+		width: 160px;
+		height: 25px;
+		font-size: 10px;
+	}
+	.slider h1{
+		letter-spacing: 5px;
+		font-size: 200%;
+		margin: 0 auto;
+	}
+	.slider h5{
+		letter-spacing: 5px;
+	}
+
+
+
+
+	.about{
+		height: 80%;
+	}
+	.round{
+		width: 140px;
+		height: 140px;
+		border-radius: 50%;
+		background-color: gray;
+		margin: 0 auto;
+	}
+
+
+	.blog{
+		width: 100%;
+		height: 200%;
+	}
+	.blog h1{
+		letter-spacing: 5px;
+		padding-top: 60px;
+		color: white;
+	}
+	.abou{
+		width: 25%;
+		height: 160px;
+		padding: 3% 4%;
+		float: left;
+		color: white;
+	}
+	
+	
+	.abou p{
+		text-align: left;
+		font-size: 80%;
+	}
+	.abou h3{
+		text-align: left;
+		font-size: 100%;
+	}
+
+	.footer button{
+		width: 160px;
+		height: 25px;
+		font-size: 11px;
+	}
+
+
+
+
+
+
+
+	@media all and (max-width: 660px){
+	
+
+	h1{
+		font-size: 120%;
+	}
+
+	h5{
+		font-size: 60%;
+		font-weight: 300;
+	}
+	p{
+		line-height: 100%
+	}
+	header{
+		height: 60px;
+	}
+
+	.nav-two{
+		display: block;
+	}
+	.nav-one{
+		display: none;
+	}
+
+	.btn button{
+		width: 150px;
+		height: 20px;
+		font-size: 10px;
+	}
+
+	.slider h1{
+		letter-spacing: 5px;
+		font-size: 150%;
+		margin: 0 auto;
+	}
+	.slider h5{
+		letter-spacing: 5px;
+	}
+
+
+
+
+	.about{
+		height: 60%;
+	}
+	.round{
+		width: 90px;
+		height: 90px;
+		border-radius: 50%;
+		background-color: gray;
+		margin: 0 auto;
+	}
+
+
+	.blog{
+		width: 100%;
+		height: 240%;
+	}
+	.blog h1{
+		letter-spacing: 5px;
+		padding-top: 60px;
+		color: white;
+	}
+	.abou{
+		width: 30%;
+		height: 140px;
+		padding: 4% 10%;
+		float: left;
+		color: white;
+	}
+	
+	
+	.abou p{
+		text-align: left;
+		font-size: 80%;
+	}
+	.abou h3{
+		text-align: left;
+		font-size: 80%;
+	}
+
+	.footer button{
+		width: 150px;
+		height: 20px;
+		font-size: 10px;
+		border-radius: 20px;
+		border-style: none;
+		border:1px solid white;
+		background-color: transparent;
+		color: white;
+	}
+
+
+
+
+
+
+	@media all and (max-width: 425px){
+	
+	h1{
+		font-size: 120%;
+	}
+
+	h5{
+		font-size: 60%;
+		font-weight: 300;
+	}
+	p{
+		line-height: 100%
+	}
+	header{
+		position: unset;
+	}
+
+	.logo{
+		width: 20%;
+		margin-left: 20px;
+		opacity: .5;
+	}
+
+	.nav-two ul{
+	left: 30%;
+	top: 20%;
+}
+
+	.social img{
+		width: 15px;
+		height: 15px;
+		padding: 6px;
+	}
+	.social{
+		margin:0 5px;
+	}
+
+	.main img {
+		width: 100%
+		height100%
+	}
+	.one-third-port{
+	width: 100%;
+	float: left;
+	padding: 0;
+}
+
+	.slider h1{
+		letter-spacing: 5px;
+		font-size: 150%;
+		margin: 0 auto;
+	}
+	.slider h5{
+		letter-spacing: 5px;
+	}
+
+
+
+	.member{
+		width: 100%;
+		padding: 0;
+	}
+	.about{
+		height: 70%;
+	}
+	.round{
+		width: 140px;
+		height: 140px;
+		border-radius: 50%;
+		background-color: gray;
+		margin: 0 auto;
+	}
+
+
+	.blog{
+		width: 100%;
+		height: 330%;
+	}
+	.blog h1{
+		letter-spacing: 5px;
+		padding-top: 60px;
+		color: white;
+	}
+	..abou{
+		width: 70%;
+		height: 150px;
+		padding: 4% 16%;
+		float: left;
+		color: white;
+	}
+	
+	
+	.abou p{
+		text-align: left;
+		font-size: 80%;
+	}
+	.abou h3{
+		text-align: left;
+		font-size: 80%;
+	}
+
+
+	.abou{
+		width: 80%;
+		height: auto;
+		float: left;
+		color: white;
+	}
+
+
+
+
+
+
+
+
